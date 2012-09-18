@@ -1,0 +1,14 @@
+PROYECTO
+SISTEMA DE CONTROL Y FLUJO DE SOLICITUDES
+
+TIS
+Consultor:	
+						Ing. Fiorilo Lozada Americo
+
+JADESOFT
+Integrantes: 	
+						Condori Requena Josimar Santiago
+						Sandoval Alcocer Oscar
+						Ramirez Silvestre Ricardo
+						Sanchez Efrain
+						Rocha Jimenez Juan Victor
